@@ -1,0 +1,6 @@
+{
+  "name": "بورصة العراق - أسعار الذهب والدولار",
+  "description": "متابعة لحظية ومباشرة لأسعار الدولار في جميع محافظات العراق وبورصتي الكفاح والحارثية وأسعار مثقال الذهب عيار 21 و24 و22 والعملات الأجنبية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

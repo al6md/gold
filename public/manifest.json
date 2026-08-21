@@ -1,0 +1,23 @@
+{
+  "name": "بورصة العراق - أسعار الذهب والدولار",
+  "short_name": "بورصة العراق",
+  "description": "متابعة لحظية ومباشرة لأسعار الدولار في جميع محافظات العراق وأسعار مثقال الذهب عيار 21 و24 والعملات الأجنبية.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090d",
+  "theme_color": "#0c0e14",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
